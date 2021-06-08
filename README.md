@@ -1,2 +1,2 @@
-# Here you have some C++ function ( prototype ) exercises.
-Diego Enrique Murillo Correa 2021®
+# Here you have some C++ function ( prototype ) exercises. ***C++*** 😎
+Diego Enrique Murillo Correa 2021©️ 💻☕
